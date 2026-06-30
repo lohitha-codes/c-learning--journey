@@ -1,1 +1,1 @@
-Thisnfolder contains my c function practice programs .
+This folder contains my c function practice programs .
